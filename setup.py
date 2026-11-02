@@ -36,7 +36,7 @@ setup(
         "twisted", "checker", "compliance", "pep8"
         ],
     install_requires=[
-        "pylint == 0.26.0",
+        "pylint == 4.0.9",
         "pep8"
         ],
     long_description=file('README.rst').read()
